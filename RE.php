@@ -720,7 +720,7 @@ break;case 'ur' : $codi=convert_uudecode($text);
 break;case 'url' : $codi=base64_decode(gzinflate(str_rot13(convert_uudecode(gzinflate(base64_decode(($text)))))));
 break;default:break;}}
 $html = htmlentities(stripslashes($codi));
-echo "<from><center><h3><font size=4 face=chiller color=yellow>Pacman Corp</h3></center><textarea cols=70 rows=20 style='onfocus();font-weight:bold;color:red;background-image: transparent;opacity:0.40;background-size:100%;background-repeat: no-repeat;' class='inputz' readonly>".$html."</textarea><BR/><BR/></center></from>";
+echo "<from><center><h3><font size=4 face=chiller color=yellow>RabizaEcsel</h3></center><textarea cols=70 rows=20 style='onfocus();font-weight:bold;color:red;background-image: transparent;opacity:0.40;background-size:100%;background-repeat: no-repeat;' class='inputz' readonly>".$html."</textarea><BR/><BR/></center></from>";
 ?>
 <footer style="text-shadow: 0 0 6px #FF0000, 0 0 5px #FF0000, 0 0 5px #FF0000; position:fixed; left:1px; right:0px; top:0px; border-bottom: 1px solid red ;">
 <center><b><font face="Quicksand" color="black" size="3" style="text-shadow: 0 0 5px #2f2b2b, 0 0 10px #2f2b2b, 0 0 20px #2f2b2b, 0 0 45px #2f2b2b, 0 0 40px #2f2b2b;">
@@ -2030,22 +2030,18 @@ break;default:break;}}
 $html = htmlentities(stripslashes($codi));
 echo "<from><textarea cols=80 rows=10 class='form-control con7' >".$html."</textarea><BR/><BR/></center><br></from>";
 
-//////////////ABOUT PACMAN//////////////////
-///////JANGAN DI UBAH PANTEQ SENSITIF///////
 
 } elseif($_GET['do'] == 'about') {
 ?>
 <br>
 
     <div class="terimakasih">
-<tr><td><center><font color="gold">Sejarah PacmanCorp.
-<tr><td><center><font color="gold">Awal Mula PacmnanCorp di Buat tahun 14 Maret 2015, Aktif Di Tahun 2016 Sebagai Group Pembeljaran, dan Di Tahun 2017 Resmi jadi Group Khusus Defacer.
-awalnya Grup Ini Di Buat Karena Founder Pacman Sakit Hati Web Dia, Dlu Cmsnya Wordpress Kna Depes, Index Sama Admin LogIn-nya Di Tebas Cpnel Di Ganti, Sampe Akhirnya Di Hapus Pihak Wordpress :"(. Akhirnya Si Founder Jadi hacktivist, Sampe Sekarang, Di Buat Oleh 7 Orang
-Yang Tersisa Hanya Dia Sama Ilham :'(
-Akhirnya Dibentuk Kepengurusan Dan Sampe Sekarang Deh, Thx Dah. Wkwk,, Walaupun Dlu Sering Di Ejek Djimdjam Tapi Pantad Gua Kebal.. eaa:v
-    <p><font color="Lavender">Thanks To : All Member Pacman & Davnisial</font>
-<br><a href="https://www.facebook.com/groups/OfficialPacmanCorpTeam/">JOIN TO GROUP OFFICIAL PACMAN CORP</a>
-    <br><font color="Lavender"><font></font> <br>Greetz: All Defacer Indonesian / All Team Defacer
+<tr><td><center><font color="gold">Sejarah Hunter Security Crew
+<tr><td><center><font color="gold">Sebuah Team Kecil, Yang di bentuk pada tahun 2017/5/12 Sebelum nya HSC sudah memiliki nama yaitu, Hunter404Sec-Team pada Tahun 2015 tidak lama Team di bubar kan:D dan 2017 Team di bangkitkan lagi dengan para member2 dan nama team baru yaitu " Hunter Security Crew "
+
+    <p><font color="Lavender">Serizawa404 - ./Fruu - Exodus404 - Samba77 - Nus4ntara - Mr.KasX - C0RT3X</font>
+<br><a href="https://www.facebook.com/Hunter404Sec">FansPag</a>
+    <br><font color="Lavender"><font></font> <br>Greetz: Gend3ruwo - Indonesian Code Party - AraHaxor - T1KUS90T
 </td></tr>
 
 //////////////////BOKEP////////////////////////
@@ -2060,7 +2056,7 @@ Akhirnya Dibentuk Kepengurusan Dan Sampe Sekarang Deh, Thx Dah. Wkwk,, Walaupun 
 
     <p><font color="Lavender">Klik dibawah</font>
 <br><a href="http://javhihi.com">Disini Bossque</a>
-    <br><font color="Lavender"><font></font> <br>Greetz: All Defacer Indonesian / All Team Defacer
+    <br><font color="Lavender"><font></font> <br>Greetz:Serizawa404 - ./Fruu - Exodus404 - Samba77 - Nus4ntara - Mr.KasX - C0RT3X - Gend3ruwo - Indonesian Code Party - AraHaxor - T1KUS90T
 </td></tr>
 
 <?php
