@@ -1,5 +1,5 @@
 <?php
 // Set the username and password of the Instagram account
-$username = 'pikriadr'; //usernameInstagram
-$password = 'erni1234'; //passwdInstagram
+$username = ''; //usernameInstagram
+$password = ''; //passwdInstagram
 $userID = ''; //userID -> getUSERID https://smashballoon.com/instagram-feed/find-instagram-user-id/
