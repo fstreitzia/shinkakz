@@ -1,2 +1,3 @@
 # RabizaEcsel
-# tools recoded by Me
+# 99% Bacot 1% Skill
+# Keep calm and laugh :) 
