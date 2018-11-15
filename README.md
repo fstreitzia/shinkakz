@@ -41,5 +41,3 @@
 <td><b>AGAMA</b></td>
 <td>:   Islam</td>
 </tr>
-</body>
-</html>
