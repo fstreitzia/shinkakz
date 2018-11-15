@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Membuat Biodata Sederhana</title>
 </head>
 <body>
 <form action="#" style="width: 700px"class="posisi";>
