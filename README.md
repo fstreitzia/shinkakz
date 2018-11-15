@@ -4,7 +4,7 @@
 <body>
 <fieldset class="h"/>
 <table style="width: 600px;">
-<body style="background-color:pink"> </body>
+<body style="background-color:Black"> </body>
 
 <tr>
 <td rowspan="10" width="100px">
