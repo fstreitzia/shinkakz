@@ -1,10 +1,9 @@
 
 <head>
 </head>
-<body>
 <fieldset class="h" />
 <table style="width: 600px;"><style>body {
-    background-image: url("http://img01.deviantart.net/091c/i/2017/106/6/7/ace_death_by_jackdanielscat-db627oz.jpg"), url("paper.gif");
+    background-image: url("https://wallpaperlayer.com/img/2015/9/dark-anime-wallpaper-8921-9254-hd-wallpapers.jpg"), url("http://pm1.narvii.com/5799/8dd79489d4bfbc25c933db133e68b8c24c122005_hq.jpg");
     background-color: #cccccc;
 } 
 </style></body>
@@ -14,36 +13,36 @@
 </td>
 </tr>
 <center>
-<font size="25px">
+<font size="25px" Color='Red'>
 <b>My Bio</b>
 </font>
 </center>
 <tr>
-<td><b>Nickname</b></td>
-<td>:   RamonNDJ</td>
+<td><b><font color='red' Size='5'>Nickname</b></td>
+<td><font color='red' Size='5'>:   RamonNDJ</td>
 </tr>
 <tr>
-<td><b>Hoby</b></td>
-<td>: Balap - Drummer - Pentesting - Dota 2</td>
+<td><font color='red' Size='5'><b>Hoby</b></td>
+<td><font color='red' Size='3'>: Balap - Drummer - Pentesting - Dota 2</td>
 </tr>
 <tr>
-<td><b>City / Date Birthday</b></td>
-<td>:   Cilegon, 10 October 2001</td>
+<td><font color='red' Size='3'><b>City / Date Birthday</b></td>
+<td><font color='red' Size='3'>:   Cilegon, 10 October 2001</td>
 </tr>
 <tr>
-<td><b>province</b></td>
-<td>:   Cilegon - Banten</td>
+<td><font color='red' Size='3'><b>province</b></td>
+<td><font color='red' Size='3'>:   Cilegon - Banten</td>
 </tr>
 <tr>
-<td><b>gender</b></td>
-<td>:   Boy</td>
+<td><font color='red' Size='3'><b>gender</b></td>
+<td><font color='red' Size='3'>:   Boy</td>
 </tr>
 <tr>
-<td><b>religion</b></td>
-<td>:   Islam</td>
+<td><font color='red' Size='3'><b>religion</b></td>
+<td><font color='red' Size='3'>:   Islam</td>
   <tr>
-<td><b>Language : </b></td>
-<td>:  Indonesia, English, China</td>
+<td><font color='Red' Size='3'><b>Language : </b></td>
+<td><font color='red' Size='3'>:  Indonesia, English, China</td>
 </tr>
 </tr>
 </table></body><html>
