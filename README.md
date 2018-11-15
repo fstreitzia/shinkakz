@@ -13,7 +13,7 @@
 </tr>
 <center>
 <font size="25px">
-<b>BIODATA</b>
+<b>Curency Agency</b>
 </font>
 </center>
 <tr>
