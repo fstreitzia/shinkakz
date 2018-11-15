@@ -2,7 +2,6 @@
 <head>
 </head>
 <body>
-<form action="#" style="width: 700px"class="posisi";>
 <fieldset class="h"/>
 <table style="width: 600px;">
 <body style="background-color:pink"> </body>
