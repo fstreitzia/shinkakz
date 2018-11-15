@@ -1,26 +1,46 @@
-
-
-
-
-<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'
 <html>
 <head>
-<title>Hacked By W0rmC0de</title>
-<link href='http://fonts.googleapis.com/css?family=Courier New' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
+<title>Membuat Biodata Sederhana</title>
 </head>
-<table width=100% height=100%><td align=center>
+<body>
+<form action="#" style="width: 700px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 600px;">
+<body style="background-color:pink"> </body>
 
-<br><br>
+<tr>
+<td rowspan="10" width="100px">
+<img src="https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/q88/p206x206/46233179_354585425296723_8299117503074795520_n.jpg?_nc_cat=110&_nc_ht=scontent-sin2-2.xx&oh=c9ec5bed69d12c4b07dd6d6ccec1ac72&oe=5C733B89" width="150px" height="200px" border="5">
+</td>
+</tr>
 <center>
-<a href="https://www.facebook.com/rabizaekel/" target="_blank"><img src="../vignette.wikia.nocookie.net/central/images/c/ca/Glee_kurt-cry.gif/revision/latest%3Fcb=20130524170032" style="opacity:0.4;filter:alpha(opacity=40)" onmouseover="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseout="this.style.opacity=0.4;this.filters.alpha.opacity=40"></a><br><br>
-<font face="Iceland" size="7" color="Black"><b>Hack3d  By Serizawa404</font><br><br>
-<font face="Courier New" size="3" color="Black">Benarkah dia akan jadi milikku, Sampai kapanpun aku menunggu dan bertanya-tanya setiap waktu<b><br>Hunter Security Crew</font>
-
-<b>
-
-<iframe width="1" height="1" src="https://www.youtube.com/embed/9h9a5UgUruA?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-
-
+<font size="25px">
+<b>BIODATA</b>
+</font>
+</center>
+<tr>
+<td><b>NAMA</b></td>
+<td>:   RamonNDJ</td>
+</tr>
+<tr>
+<td><b>Favorit</b></td>
+<td>: Dota 2</td>
+</tr>
+<tr>
+<td><b>TTL</b></td>
+<td>:   Cilegon, 10 October 2001</td>
+</tr>
+<tr>
+<td><b>ALAMAT</b></td>
+<td>:   Cilegon - Banten</td>
+</tr>
+<tr>
+<td><b>JENIS KELAMIN</b></td>
+<td>:   Laki - Laki</td>
+</tr>
+<tr>
+<td><b>AGAMA</b></td>
+<td>:   Islam</td>
+</tr>
+</body>
 </html>
