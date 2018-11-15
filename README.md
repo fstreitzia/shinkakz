@@ -37,6 +37,10 @@
 <td>:   Boy</td>
 </tr>
 <tr>
-<td><b>AGAMA</b></td>
+<td><b>religion</b></td>
 <td>:   Islam</td>
+  <tr>
+<td><b>Language : </b></td>
+<td>:  Indonesia, English, China</td>
+</tr>
 </tr>
