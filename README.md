@@ -1,46 +1,114 @@
+<!DOCTYPE html>
 <html>
 <head>
+<meta name="description" content="Biodata"/>
+<meta name="Keywords" content="Biodata"/>
+<meta name="authors" content="Angga"/>
+<meta charset="UTF-8"/>
+<title>Biodata</title>
+<link rel="stylesheet" href="styleku.css"/>
 </head>
 <body>
+<form action="#" style="width: 1000px"class="posisi";>
 <fieldset class="h"/>
-<table style="width: 600px;">
-<body style="background-color:Black"> </body>
-
+<table style="width: 980px;">
 <tr>
-<td rowspan="10" width="100px">
-<img src="https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/q88/p206x206/46233179_354585425296723_8299117503074795520_n.jpg?_nc_cat=110&_nc_ht=scontent-sin2-2.xx&oh=c9ec5bed69d12c4b07dd6d6ccec1ac72&oe=5C733B89" width="250px" height="200px" border="5">
+<td rowspan="15" width="250px">
+<img src="a.jpg" width="250px" height="420px"/>
 </td>
 </tr>
-<center>
-<font size="25px">
-<b>My Bio</b>
-</font>
-</center>
 <tr>
-<td><b>Nickname</b></td>
-<td>:   RamonNDJ</td>
+<td><b>Nickname </b></td>
+<td>:</td>
+<td>RamonNDJ</td>
 </tr>
 <tr>
-<td><b>Hoby</b></td>
-<td>: Balap - Drummer - Pentesting - Dota 2</td>
+<td><b>Team</b></td>
+<td>:</td>
+<td>JandaCIKI</td>
 </tr>
 <tr>
-<td><b>City / Date Birthday</b></td>
-<td>:   Cilegon, 10 October 2001</td>
+<td><b>City</b></td>
+<td>:</td>
+<td>Cilegon, Ketileng, 10 October 2001</td>
 </tr>
 <tr>
-<td><b>province</b></td>
-<td>:   Cilegon - Banten</td>
+<td><b>age</b></td>
+<td>:</td>
+<td>17 </td>
 </tr>
 <tr>
 <td><b>gender</b></td>
-<td>:   Boy</td>
+<td>:</td>
+<td>Boy</td>
 </tr>
 <tr>
-<td><b>religion</b></td>
-<td>:   Islam</td>
-  <tr>
-<td><b>Language : </b></td>
-<td>:  Indonesia, English, China</td>
+<td><b>Gol. Darah</b></td>
+<td>:</td>
+<td>A</td>
 </tr>
+<tr>
+<td><b>Agama</b></td>
+<td>:</td>
+<td>Islam</td>
 </tr>
+<tr>
+<td><b>Alamat</b></td>
+<td>:</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Status</b></td>
+<td>:</td>
+<td>Bertunangan</td>
+</tr>
+<tr>
+<td><b>Pekerjaan</b></td>
+<td>:</td>
+<td>IT Programmer - Atlet Dota 2</td>
+</tr>
+<tr>
+<td><b>Kewarganegaraan</b></td>
+<td>:</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+<td><b>Riwayat</b></td>
+  <td>:</td>
+</td>
+</tr>
+</table>
+</fieldset>
+</form>
+</body>
+</html>
+<style>
+table,tr,td{
+background-color: LightGoldenRodYellow ;
+font-family: century gothic;
+color: green;
+border: 1px solid aqua;
+padding: 5px;
+border-collapse: collapse;
+}
+.h{
+border: 8px groove yellow;
+padding: 20px;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+body{
+background-image: url('https://images.alphacoders.com/846/84631.jpg');
+background-repeat: no-repeat;
+background-size: 1400px auto;
+}
+ </style>
