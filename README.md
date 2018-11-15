@@ -13,7 +13,7 @@
 </tr>
 <center>
 <font size="25px">
-<b>Curency Agency</b>
+<b>My Bio</b>
 </font>
 </center>
 <tr>
@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td><b>Hoby</b></td>
-<td>: Dota 2, RoadRace, Pentesting, Galau Gajelas g*blok</td>
+<td>: Balap - Drummer - Pentesting - Dota 2</td>
 </tr>
 <tr>
 <td><b>City / Date Birthday</b></td>
