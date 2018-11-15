@@ -3,8 +3,11 @@
 </head>
 <body>
 <fieldset class="h" />
-<table style="width: 600px;">
-<body style="background;https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/q88/p206x206/46233179_354585425296723_8299117503074795520_n.jpg?_nc_cat=110&amp;_nc_ht=scontent-sin2-2.xx&amp;oh=c9ec5bed69d12c4b07dd6d6ccec1ac72&amp;oe=5C733B89> </body>
+<table style="width: 600px;"><style>body {
+    background-image: url("http://img01.deviantart.net/091c/i/2017/106/6/7/ace_death_by_jackdanielscat-db627oz.jpg"), url("paper.gif");
+    background-color: #cccccc;
+} 
+</style></body>
 
 <tr>
 <td rowspan="10" width="100px">
