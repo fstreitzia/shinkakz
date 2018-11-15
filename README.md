@@ -1,1 +1,1 @@
-<B><a href="facebook.com/rabizaekel"><b>Masih Kosong Kalem Ah<b>
+<center><b>Mau gua isi apaan coba<b>
