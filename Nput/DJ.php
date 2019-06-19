@@ -29,7 +29,7 @@ echo '<!DOCTYPE HTML>
 <style>
 body{
 	font-family: "Racing Sans One", cursive;
-	background-image: url("http://trik99designs.com/wp-content/uploads/2018/08/one-piece-black-and-white-wallpaper-hd-luxury-e-piece-wallpapers-x-wallpaper-hd-wallpapers-of-one-piece-black-and-white-wallpaper-hd.png");
+	background-image: url("https://media.alienwarearena.com/media/Black-Wallpaper-Android-HD.jpg");
         color:White;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
