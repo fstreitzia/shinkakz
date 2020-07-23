@@ -22,11 +22,11 @@ $_POST[$key] = stripslashes($value);
 echo '<!DOCTYPE HTML>
 <html>
 <head>
-<link href="" rel="stylesheet" type="text/css">
+<link href="Ubuntu" rel="stylesheet" type="text/css">
 <title>AdipatiDolk</title>
 <style>
 body{
-font-family: "Racing Sans One", cursive;
+font-family: "Ubuntu", cursive;
 background-color: black;
 color:purple;
 }
