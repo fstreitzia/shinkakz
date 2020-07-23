@@ -306,4 +306,10 @@ $info .= (($perms & 0x0001) ?
 return $info;
 }
 ?>
-<style type='text/css'>body, a, a:link{cursor:url(http://4.bp.blogspot.com/-hAF7tPUnmEE/TwGR3lRH0EI/AAAAAAAAAs8/6pki22hc3NE/s1600/ass.png), default;} a:hover {cursor:url(http://3.bp.blogspot.com/-bRikgqeZx0Q/TwGR4MUEC7I/AAAAAAAAAtA/isJmS0r35Qw/s1600/pointer.png),wait;}</style>
+<style type="text/css">
+body,
+a:hover {
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur847.ani),
+    url(http://cur.cursors-4u.net/cursors/cur-9/cur847.png), progress !important;
+}
+ </style
